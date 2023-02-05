@@ -1,3 +1,7 @@
+# Содержание
+
+Передача пропсов в дочерние компоненты. Итерация по массиву объектов с передачей в цикле пропсов
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
